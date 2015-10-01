@@ -1,4 +1,4 @@
 <?php 
-echo "Borrachito Troll";
+echo "Borrachito";
 
 ?>
